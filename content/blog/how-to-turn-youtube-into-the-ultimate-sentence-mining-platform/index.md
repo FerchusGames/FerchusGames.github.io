@@ -6,15 +6,15 @@ draft: true
 tags: ["Blog", "Language Learning", "Migaku", "Japanese"]
 showAuthor: false
 heroStyle: big
+showWordCount: false
+showReadingTime: false
 ---
 
-## The Case for Sentence Mining on YouTube
+## The Case for Mining With YouTube
 
-### Why YouTube?
+This is a step by step guide on how to setup YouTube for the best mining experience and it will not go into the details of why YouTube is arguably the best platform for this as there are many other resources that explain its advantages over other mediums. I do think though that you should always be in contact with whatever you connected to that started your language learning journey. 
 
-
-
-### Should I Sentence Mine on YouTube?
+For example, if you are studying Japanese with the sole purpose of watching anime without subtiles, then you should mine with it and use an anime frequency list to find relevant vocabulary. If, however, you wanted to learn it because you are interested in being able to understand and converse in your target language, then YouTube is most definitely the best option.
 
 ## Setting Up for Success
 
@@ -23,6 +23,10 @@ heroStyle: big
 You don't want to mix the YouTube account that you use for regular entertainment with the one you'll use for sentence mining; it just makes it harder to fully commit to one or the other. Because of that, as a first step, I recommend that you assign or create a YouTube account for the sole purpose of consuming content on your target language. It's okay if you've already watched other type of videos on that account as the important thing is that you only have subscriptions to channels in the language you're studying. 
 
 ### Find Content You Care About
+
+If you're a beginner, then you probably feel overwhelmed with more advanced content and would like to watch some easier videos to act as a bridge into intermediate ones. If you are more advanced, I'd say 2,000+ words, then you'll probably find most of the beginner friendly" content dull and mining sentences will be a bit harder. At this stage, stop for a moment to consider what kind of stuff you're actually interested in watching. 
+
+You dream about visiting a country that speaks the language? Then look for its popular domestic travel channels. You can do this by searching videos for it in YouTube itself, but I advise straight up asking other people for recommendations or searching for forum posts asking for the same kind of channels. It is extremely important that whatever you're watching resonates with you.  
 
 ### Make Your Computer "Study Only"
 
@@ -71,17 +75,16 @@ Install PocketTube Subscriptions Manager
 Install PocketTube Playlist Manager
 {{< /button >}}
 
-I should mention that it is a freemium extension and the version that you saw in the video is the paid one. The free version limits the Deck to only one group column, one channel column, and doesn't allow for playlist columns. It also doesn't have the custom duration filter on playlists, but it does allow you to filter by predetermined ones (0-15, 15-60, 60+ minutes). 
+I should mention that it is a freemium extension and the version that you saw in the video is the paid one. The free version limits the deck to only one group column, one channel column, and doesn't allow for playlist columns. It also doesn't have the custom duration filter on playlists, but it does allow you to filter by predetermined ones (0-15, 15-60, 60+ minutes). 
 
-It's not necessary at all to purchase the premium membership, as __the free version is already amazing__, but if you are absolutely serious about using YouTube as your main mining source, I absolutely recommend it. It is only __3$ USD a month__ and there are many benefits that you can explore in the Patreon tab both on the Deck/Group feed and the PocketTube button in the _You_ section on the left (each one displaying benefits for their respective extension). The main ones for me being:
+It's not necessary at all to purchase the premium membership, as __the free version is already amazing__, but if you are absolutely serious about using YouTube as your main mining source, I absolutely recommend it. It is 3$ USD a month and you can explore its many benefits in the Patreon tab both on the Deck/Group feed and the PocketTube button in the _You_ section on the left (each one displaying benefits for their respective extension). The one that I absolutely adore is the full deck, as it lets me add multiple columns, including playlist ones. 
 
-- Full access to Deck
-- Unlimited 'mark as watched' for videos (With an eye icon on the right of every thumbnail)
-- Custom filter by duration in the playlist
-- Batch selection for Save to Playlist (Useful to create a "playlist of playlists")
-- Batch selection for 'mark as watched'
+You can join the Patreon by going on [this link](https://www.patreon.com/c/ysub) and subscribing and you can activate it on the same Patreon tab where you can browse the benefits. I am in no way affiliated with PocketTube or its creators, I'm just a very happy customer that wants to share it with others. 
 
-You can join the Patreon by going on [this link](https://www.patreon.com/c/ysub) and subscribing and you can activate it on the same Patreon tab where you can browse the benefits. I am in no way affiliated with PocketTube or its creators, I'm just a very happy customer that wants to share it with others.
+__If you subscribe to the premium version__, please watch this video I made on how to make the most out of the deck. __If not, please skip it.__
+
+{{< youtubeLite id="zRBW8kazQN8" label="How to use the deck with channel playlists" >}}
+‎
 
 {{< alert >}}
 You can move the _Subscription groups_ section up or down with the arrows below them, but you should keep it either at the top or below the _Deck_ button for _Unhook_ to work correctly. __If you move it down too much, the whole section will dissapear.__ Do not panic, just turn off _Unhook_, bring it back to the top and turn it on again.
@@ -119,9 +122,15 @@ www.youtube.com###logo
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(1)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(2)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-collapsible-section-entry-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(4)
 ```
 
 The differences are minimal, but you can notice them in the left sidebar and the page logo; now it only has the buttons you need. If you find another element that you want to block, you can use the __eyedropper tool__ to the left of the gear icon in the menu to pick one. If you mess up, you can always go back to the element list and delete the one you just added to the list.
+
+{{< alert >}}
+Whenever you see an element you need being hidden, just disable the extension and reload the page to do the action and then re-enable.
+{{< /alert >}}
 
 ### Redirect: Start Your Mining Day on the Right Foot
 	
