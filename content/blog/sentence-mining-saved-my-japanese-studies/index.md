@@ -4,7 +4,6 @@ date: 2025-01-15T00:00:00-06:00
 summary: "How I lost my way in learning Japanese and found it again."
 draft: false
 tags: ["Blog", "Language Learning", "Migaku", "Japanese"]
-heroStyle: big
 ---
 
 It all started during my second trip to Japan in the summer of 2023 when a gachapon machine with UNO tote bags at Akihabara Station malfunctioned. The capsule had gotten stuck while coming down, and there was no way to retrieve it. A young station worker quickly came over to help me. She pulled a key from her pocket, opened the machine, and unstuck the capsule. I opened the compartment, but my bag still wasn’t there. I must have looked very confused because she approached again and gestured for me to turn the handle. When I did, I finally heard the “gasha” of the mechanism and the “pon” of the capsule landing. Happy to have gotten a keepsake for my best friend, I turned to look at the girl. She was bowing, and I, deeply grateful, made my best attempt at a bow. We both smiled, and I went on my way to explore figure shops with my dad. We didn’t exchange a single word.

@@ -1,11 +1,10 @@
 ---
 title: "How to Turn YouTube Into the Ultimate Sentence Mining Platform"
-date: 2025-01-16T18:48:49-06:00
+date: 2025-02-01T18:48:49-06:00
 summary: "My step by step guide on how to setup YouTube for the best mining experience."
 draft: true
 tags: ["Blog", "Language Learning", "Migaku", "Japanese"]
 showAuthor: false
-heroStyle: big
 showWordCount: false
 showReadingTime: false
 ---
@@ -46,11 +45,11 @@ Install Unhook
 
 Clicking on the extension icon will show you the pop-up menu. If it appears like this, you need to turn it on by clicking on the big gray button:
 
-![Unhook Off](/images/youtube-guide/unhook-off.png)
+![Unhook Off](images/unhook-off.png)
 
 These are my recommended settings, but you can adjust it to your liking:
 
-![Unhook Config](/images/youtube-guide/unhook-config.png)
+![Unhook Config](images/unhook-config.png)
 
 {{< alert >}}
 Enabling	 the settings marked with __red rectangles__ is __not recommended__ and interferes with the next extension's functionality.
@@ -98,6 +97,14 @@ PocketTube makes it easy to create playlists of unwatched videos, but there's a 
 Install No Playlist Autoplay For YouTube
 {{< /button >}}
 
+#### YouTube Playlist Duration Bar
+
+![Youtube Playlist Duration Bar](images/duration-bar.png)
+
+{{< button href="https://chromewebstore.google.com/detail/youtube-playlist-duration/klbacnllhiilbiiedcbgfafmnedldgeg" target="_blank" >}}
+Install YouTube Playlist Duration Bar
+{{< /button >}}
+
 ### uBlockOrigin: Ads and Extra Elements Blocking
 
 Almost everyone knows that adblockers block, well... ads, but not a lot of people know that some of them can also block specific elements in a page. The one that I prefer is uBlockOrigin; it has that function and we're going to eliminate distracting clutter. 
@@ -108,11 +115,11 @@ Install uBlock Origin
 
 Once you've installed it, click on the extension and then the gear icon in the menu:
 
-![uBlockOrigin Interface](/images/youtube-guide/adblock-popup.png)
+![uBlockOrigin Interface](images/adblock-popup.png)
 
 The next page will open:
 
-![uBlockOrigin Filter](/images/youtube-guide/adblock-filter.png)
+![uBlockOrigin Filter](images/adblock-filter.png)
 
 Now copy and paste this element list to it and click _Apply Changes_.
 
@@ -142,7 +149,7 @@ Install Redirect
 
 After installing it and clicking on the extension icon, this interface will pop up.
 
-![Redirect Interface](/images/youtube-guide/redirect.png)
+![Redirect Interface](images/redirect.png)
 
 In _From URL_, paste this:
 
