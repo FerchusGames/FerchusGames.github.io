@@ -1,18 +1,18 @@
 ---
 title: "How to Turn YouTube Into the Ultimate Sentence Mining Platform"
-date: 2025-02-01T18:48:49-06:00
+date: 2025-02-02T00:00:00-06:00
 summary: "A step-by-step guide to optimizing YouTube for sentence mining."
-draft: true
+draft: false
 tags: ["Blog", "Language Learning", "Migaku", "Japanese"]
 showWordCount: false
 showReadingTime: false
 ---
 
-## Why Use YouTube for Sentence Mining?
+## The Case for Sentence Mining on YouTube
 
-This is a step-by-step guide on how to set up YouTube for the best sentence mining experience. It won't go into detail about why YouTube is arguably the best platform, as many other resources explain its advantages over other media. However, I believe you should stay connected to whatever initially sparked your language learning journey.
+This guide will help you set up YouTube for the best sentence mining experience. It won't go into detail about why YouTube is arguably the best platform, as many other resources explain its advantages over other media. However, I believe you should stay connected to whatever initially sparked your language learning journey.
 
-For example, if you are studying Japanese with the sole purpose of watching anime without subtiles, then you should mine with it and use an anime frequency list to find relevant vocabulary. If, however, you wanted to learn it because you are interested in being able to understand and converse in your target language, then YouTube is most definitely the best option.
+For instance, if you're learning Japanese to watch anime without subtitles, mine sentences from anime and use an anime frequency list for relevant vocabulary. If your goal is to understand and converse in the language, YouTube is your best option.
 
 ## Setting Up for Success
 
@@ -22,37 +22,31 @@ You don't want to mix the YouTube account that you use for regular entertainment
 
 ### Find Content You Care About
 
-If you're a beginner, then you probably feel overwhelmed with more advanced content and would like to watch some easier videos to act as a bridge into intermediate ones. If you are more advanced, I'd say 2,000+ words, then you'll probably find most of the beginner friendly" content dull and mining sentences will be a bit harder. At this stage, stop for a moment to consider what kind of stuff you're actually interested in watching. 
+Beginners might feel overwhelmed with advanced content, while intermediate and advanced learners might find beginner material boring. So, find stuff that genuinely excites you.
 
-You dream about visiting a country that speaks the language? Then look for its popular domestic travel channels. You can do this by searching videos for it in YouTube itself, but I advise straight up asking other people for recommendations or searching for forum posts asking for the same kind of channels. It is extremely important that whatever you're watching resonates with you.  
+Dreaming of visiting a target language-speaking country? Dive into its popular travel channels. You can search through YouTube, but asking others for recommendations in forums or communities often gives better results. It's super important to watch content that clicks with you—whether it's vlogs, cooking shows, or anything that sparks your curiosity.
 
 ### Make Your Computer "Study Only"
 
-After following these steps I also recommend taking the opportunity to clear YouTube as a source of distraction in your computer and using it for regular entertainment only in the living room TV or somewhere else to make a strong mental connection between using the site on a pc and studying a language. 
-
-It's obviously okay to also use you computer for other types of studies, just make sure that it's straight-up academic content and not edutainment (which should be relatively easy, given all the ways we've transformed the platform here). Sure, you learn a thing or two with them, but it still is a leisure activity, so leave it for your entertainment device of choice.
+After following these steps I also recommend taking the opportunity to clear YouTube as a source of distraction in your computer and using it for regular entertainment only in the living room TV or somewhere else to make a strong mental connection between using the site on a pc and studying a language. It's okay to use your computer for other academic purposes, but avoid edutainment—it’s still a leisure activity.
 
 ## Essential Tools to Enhance Your Experience
 
 ### Unhook: Eliminate Distractions
 
-When browsing through YouTube, a lot of people get the feeling that they are just wasting their time watching videos that they aren't even interested in. It’s normal to feel bad and blame your lack of discipline or self-control, but you might not realize how much the site bombards you with distractions until you remove them. You'll be surprised how different the YouTube experience is without all of those intrusive distractions, with only your carefully selected subscriptions and the search bar to find videos that you actually want to watch.
+When browsing through YouTube, a lot of people get the feeling that they are just wasting their time watching videos that they aren't even interested in. It’s normal to feel bad and blame your lack of discipline or self-control, but you might not realize how much the site bombards you with distractions until you remove them. _Unhook_ does this, leaving only the things you actually care about.
 
 {{< button href="https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid" target="_blank" >}}
 Install Unhook
 {{< /button >}}
 
-Clicking on the extension icon will show you the pop-up menu. If it appears like this, you need to turn it on by clicking on the big gray button:
+Click the extension icon and turn it on. 
 
 <img src="images/unhook-off.png" alt="Unhook Off" width="200"/>
 
-These are my recommended settings, but you can adjust it to your liking:
+Stick with the settings shown in the image to get the best results. You can tweak some settings if you'd like, but be sure to avoid enabling the ones marked in red, as they interfere with the next extensions.
 
 ![Unhook Config](images/unhook-config.png)
-
-{{< alert >}}
-Enabling	 the settings marked with __red rectangles__ is __not recommended__ and interferes with the next extension's functionality.
-{{< /alert >}}
 
 ### PocketTube: Better Video Browsing
 
@@ -151,7 +145,7 @@ Whenever you see an element you need being hidden, just disable the extension an
 
 ### Redirect: Start Mining on the Right Foot
 	
-This extension, as the name imples, redirects you to another link when you enter a website. We'll use this to optimize YouTube's default page for mining with interesting videos at your level.
+This extension sets YouTube to open directly to your optimized page.
 
 {{< button href="https://chromewebstore.google.com/detail/redirect/lfoabmjnfpgnafoagflchdgblfhnfccg" target="_blank" >}}
 Install Redirect
@@ -199,9 +193,7 @@ Now, whenever you go to the YouTube home page you'll be greeted with only videos
 Now that the home page and recommended section are not part of your YouTube browsing routine, how will you find more channels? Well, there are two main ways:
 
 1. Ask the community for recommendations (There are many great ones in the #media-recommendations channels in the Migaku Discord).  
-2. Use YouTube's recommended section.
-
-"Wait, but we just disabled the recommended sidebar with _Unhook_!" Yes, and for the most part, it should stay hidden. However, when actively searching for a new channel, it can be quite handy.
+2. Temporarily enable YouTube recommendations with Unhook when you're on the hunt for fresh content.
 
 First, click on a video from a channel that you want to find similar content. Go to _Unhook_ and disable the "Hide Recommended" toggle, now you are able to see the recommended videos like normal.  
 
@@ -224,12 +216,12 @@ Fortunately, while most don't add them as closed captions for YouTube, videos on
 ![Subtitles Generated by Migaku](images/subs.png)
 
 {{< alert >}}
-If the video has manually-created closed captions, don't generate subtitles as they will be less accurate.
+If a video has manual subtitles, don't generate new ones as they'll be less accurate.
 {{< /alert >}}
 
 ### Don't Worry About Skipping Videos
 
-There's one advantage of using YouTube over series, anime and manga that I haven't heard anyone mention before and that is that, for the most part, videos on the platform don't follow a strict linear narrative progression, so, unless you are watching something like a playthrough series, you don't have to worry at all about skipping a video if:
+Unlike series or manga, YouTube videos usually aren't connected. Unless you are watching something like a playthrough series, you don't have to worry at all about skipping a video if:
 
 1. You're not feeling interested in it.
 2. There aren't enough recommended sentences to reach your daily objective in the time you have.
@@ -242,6 +234,6 @@ You can enter and exit fullscreen by pressing __F11__ in any browser. If you ten
 
 ## A New YouTube Experience
 
-If you've followed the steps indicated in this article, then you'll notice just how much you've transformed the way you consume content on the platform. I truly hope this guide has made your sentence mining more enjoyable and streamlined.
+If you've followed the steps indicated in this article, then you'll notice just how much you've transformed the way you consume content on the platform. I truly hope this guide has made your sentence mining smoother and more enjoyable.
 
 # Happy immersing!
