@@ -1,17 +1,20 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "Ferchus"
-logo = "img/logo.png"
-description = "Ferchus' official website"
-tags = ["Ferchus", "FerchusGames", "Amerike"]
-# copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Ferchus' official website"
+  tags = ["Ferchus", "FerchusGames", "Amerike", "Game Dev", "Unity"]
+
+[params.author]
 name = "Ferchus"
 image = "img/author.png"
 headline = "Unity Developer"

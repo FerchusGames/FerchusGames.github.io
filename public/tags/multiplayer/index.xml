@@ -11,6 +11,16 @@
     
     <item>
       <title>Towerfrog</title>
+      <link>https://www.ferchus.com/featured/towerfrog/</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/featured/towerfrog/</guid>
+      <description>An online and LAN basic recreation of the game Towerfall using an authoritative server and client-side prediction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/featured/towerfrog/featured.png" />
+    </item>
+    
+    <item>
+      <title>Towerfrog</title>
       <link>https://www.ferchus.com/projects/towerfrog/</link>
       <pubDate>Thu, 13 Jun 2024 12:00:00 -0600</pubDate>
       
