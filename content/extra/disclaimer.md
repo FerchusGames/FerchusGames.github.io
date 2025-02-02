@@ -12,3 +12,5 @@ draft: false
 Some of the posts on this website are edited with the help of AI tools to be more concise. When I use them it's based on a draft that I wrote and after making the changes I always review the AI-generated content before publishing. 
 
 I get my images for the blog posts from unsplash.com.
+
+The animated background is a recolor of the one used in Blowfish's exampleSite.
