@@ -18,7 +18,7 @@ For instance, if you're learning Japanese to watch anime without subtitles, mine
 
 ### Designate a Specific Account for Each Language
 
-You don't want to mix the YouTube account that you use for regular entertainment with the one you'll use for sentence mining; it just makes it harder to fully commit to one or the other. Therefore, as a first step, I recommend assigning or creating a YouTube account solely for consuming content in your target language. It's okay if you've already watched other type of videos on that account as the important thing is that you only have subscriptions to channels in the language you're studying. 
+You don't want to mix the YouTube account that you use for regular entertainment with the one you'll use for sentence mining; it just makes it harder to fully commit to one or the other. Therefore, as a first step, I recommend assigning or creating a YouTube account solely for consuming content in your target language. It's okay if you've already watched other types of videos on that account as the important thing is that you only have subscriptions to channels in the language you're studying. 
 
 ### Find Content You Care About
 
@@ -52,7 +52,7 @@ Stick with the settings shown in the image to get the best results. You can twea
 
 This is actually a set of two extensions that go hand in hand. These are the most feature-packed addons of the list and are the ones that inspired me to create it. Because of how much stuff they bring to elevate the experience, I made this video to show how you can use them to make finding videos for sentence mining way easier:
 
-{{< youtubeLite id="ZT_5Q6l8F0s" label="How to use PocketTube for sentence mining" >}}
+{{< youtubeLite id="nwGnkgRGkRg" label="How to use PocketTube for sentence mining" >}}
 ‎
 
 {{< alert >}}
@@ -80,7 +80,7 @@ You can join the Patreon by going on [this link](https://www.patreon.com/c/ysub)
 
 __If you subscribe to the premium version__, please watch this video I made on how to make the most out of the deck. __If not, please skip it.__
 
-{{< youtubeLite id="zRBW8kazQN8" label="How to use the deck with channel playlists" >}}
+{{< youtubeLite id="q-ovmJ9w650" label="How to use the deck with channel playlists" >}}
 ‎
 
 {{< alert >}}
@@ -101,7 +101,7 @@ Since playlists with only unwatched videos can now play a bigger part of the way
 
 <img src="images/duration-bar.png" alt="Youtube Playlist Duration Bar" width="300"/>
 
-There's just one limitation, and it is that, while YouTube allows playlists with up to 5,000 videos, it can only display a maximum of 200 videos at a time, so if your playlist is bigger than that this extension will only tell you the remaining time for the ones displayed. This isn't really a big deal, but I thought it could prevent confusion.
+There's just one limitation, and it is that, while YouTube allows playlists with up to 5,000 videos, it can only display a maximum of 200 videos at a time, so if your playlist is bigger than that this extension will only display the remaining time for the videos shown. This isn't really a big deal, but I thought it could prevent confusion.
 
 {{< button href="https://chromewebstore.google.com/detail/youtube-playlist-duration/klbacnllhiilbiiedcbgfafmnedldgeg" target="_blank" >}}
 Install YouTube Playlist Duration Bar
